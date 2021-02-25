@@ -1,2 +1,7 @@
 # Project exclude paths
+/.idea/
 /target/
+*.iml
+*.properties
+*.class
+*.DS_Store
