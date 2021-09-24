@@ -29,11 +29,11 @@
 <hr>
 <div class="w3-row-padding" style="padding:0px 250px; margin-bottom: 20px">
     <div class="w3-third w3-container w3-margin-bottom">
-        <img src="<c:url value="/resource/images/products/sonyA7M2.jpg"/>" alt="Norway" style="width: 100%"
+        <img src="<c:url value="/resource/images/products/a7r4.jpg"/>" alt="Norway" style="width: 100%"
              class="w3-hover-opacity">
         <div class="w3-container w3-white" style="padding:0px 30px;">
             <p>
-                <b>Sony A7 II</b>
+                <b>Sony A7R IV</b>
             </p>
             <p>
             <ul>
@@ -47,28 +47,28 @@
     </div>
 
     <div class="w3-third w3-container w3-margin-bottom">
-        <img src="<c:url value="/resource/images/products/sonyxm3.jpg"/>" alt="Norway" style="width: 100%"
+        <img src="<c:url value="/resource/images/products/xm4.png"/>" alt="Norway" style="width: 100%"
              class="w3-hover-opacity">
         <div class="w3-container w3-white" style="padding:0px 50px;">
             <p>
-                <b>Sony Headphones XM3</b>
+                <b>Sony Headphones XM4</b>
             </p>
             <p>
             <ul>
                 <li>Product Dimensions - 7.3 x 2.9 x 10.4 inches</li>
                 <li>Item weight - 9 ounces</li>
                 <li>Rating - 4.3</li>
-                <li>Price - 298.0</li>
+                <li>Price - 399.0</li>
             </ul>
             </p>
         </div>
     </div>
     <div class="w3-third w3-container w3-margin-bottom">
-        <img src="<c:url value="/resource/images/products/playstation.jpg"/>" alt="Norway" style="width: 100%"
+        <img src="<c:url value="/resource/images/products/ps5.jpg"/>" alt="Norway" style="width: 100%"
              class="w3-hover-opacity">
         <div class="w3-container w3-white" style="padding:20px 10px;">
             <p>
-                <b>Playstation 4</b>
+                <b>Playstation 5</b>
             </p>
             <p>
             <ul>
@@ -83,55 +83,56 @@
 </div>
 
 <hr>
+
 <div class="w3-row-padding" style="padding:0px 250px; margin-bottom: 20px">
     <div class="w3-third w3-container w3-margin-bottom">
-        <img src="<c:url value="/resource/images/products/iphoneXR.jpg"/>" alt="Norway" style="width: 100%"
+        <img src="<c:url value="/resource/images/products/iphone13.png"/>" alt="Norway" style="width: 100%"
              class="w3-hover-opacity">
         <div class="w3-container w3-white" style="padding:0px 50px;">
             <p>
-                <b>iPhone XR</b>
+                <b>iPhone 13</b>
             </p>
             <p>
             <ul>
                 <li>Product Dimensions - 5.94 x 2.98 x 0.33 inches</li>
                 <li>Item weight - 6.84 pounds</li>
                 <li>Rating - 4.5</li>
-                <li>Price - 749.99</li>
+                <li>Price - 999.99</li>
             </ul>
             </p>
         </div>
     </div>
 
     <div class="w3-third w3-container w3-margin-bottom" style="padding-top:100px">
-        <img src="<c:url value="/resource/images/products/macbook.jpg"/>" alt="Norway" style="width: 100%"
+        <img src="<c:url value="/resource/images/products/iPadMini.png"/>" alt="Norway" style="width: 100%"
              class="w3-hover-opacity">
         <div class="w3-container w3-white" style="padding:84px 50px;">
             <p>
-                <b>MacBook Pro</b>
+                <b>iPad mini</b>
             </p>
             <p>
             <ul>
-                <li>Product Dimensions - 13.75 x 9.48 x 0.61 inches</li>
-                <li>Item weight - 4.02 pounds</li>
+                <li>Product Dimensions - 7.69 x 5.3 x 0.25 inches</li>
+                <li>Item weight - 0.65 pounds</li>
                 <li>Rating - 4.3</li>
-                <li>Price - 2799.0</li>
+                <li>Price - 649.99</li>
             </ul>
             </p>
         </div>
     </div>
     <div class="w3-third w3-container w3-margin-bottom">
-        <img src="<c:url value="/resource/images/products/ipad.jpg"/>" alt="Norway" style="width: 100%"
+        <img src="<c:url value="/resource/images/products/iWatch.png"/>" alt="Norway" style="width: 100%"
              class="w3-hover-opacity">
         <div class="w3-container w3-white" style="padding:16px 60px;">
             <p>
-                <b>Ipad Pro</b>
+                <b>Apple Watch</b>
             </p>
             <p>
             <ul>
-                <li>Product Dimensions - 11.04 x 8.46 x 0.23 inches</li>
-                <li>Item weight - 1.39 pounds</li>
+                <li>Product Dimensions - 40 x 34 x 10.7 mm</li>
+                <li>Item weight - 30.5g</li>
                 <li>Rating - 4.5</li>
-                <li>Price - 999.0</li>
+                <li>Price - 449.99</li>
             </ul>
             </p>
         </div>

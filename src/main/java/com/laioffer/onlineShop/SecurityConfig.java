@@ -27,13 +27,12 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
             .antMatchers("/get*/**").hasAnyAuthority("ROLE_USER", "ROLE_ADMIN")
             .antMatchers("/admin*/**").hasAuthority("ROLE_ADMIN")
             .anyRequest().permitAll();
-    
   }
   
   @Override
   protected void configure(AuthenticationManagerBuilder auth) throws Exception {
     auth
-            .inMemoryAuthentication().withUser("liuwuyayui@gmail.com").password("123").authorities("ROLE_ADMIN");
+            .inMemoryAuthentication().withUser("admin@gmail.com").password("admin").authorities("ROLE_ADMIN");
     
     auth
             .jdbcAuthentication()

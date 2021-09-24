@@ -20,8 +20,7 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 public class Cart implements Serializable {
   
   private static final long serialVersionUID = 8436097833452420298L;
-  
-  
+
   @Id
   @GeneratedValue(strategy = GenerationType.AUTO)
   private int id;
